@@ -1,5 +1,4 @@
 # Team name : Codepy
-# Team Name: Codepy
 
 def calculate(expression: str) -> float:
     expression = expression.replace(" ", "")
