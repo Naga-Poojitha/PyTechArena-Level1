@@ -1,2 +1,4 @@
-Write Your Function For the Problem Statement Here
-Team name : Codepy
+# Team Name: Codepy
+
+def organize_scores(scores: list[int], descending: bool) -> list[int]:
+    return sorted(scores, reverse=descending)
