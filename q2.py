@@ -1,4 +1,3 @@
-# Team name : Codepy
 # Team Name: Codepy
 
 def convert_seconds(total_seconds: int) -> str:
